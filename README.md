@@ -6,7 +6,7 @@
 
 I'm a <b> ✨Front End Developer student✨ </b> looking forward to learn programming languages.
 
-### I N F O:
+## I N F O:
 - :sunflower: I’m currently learning: JavaScript, React.
 - :sunflower: I'm attentive and have a gift to find mistakes quickly, thanks to previous job <3.
 - :sunflower: Quicklearner.
@@ -15,15 +15,15 @@ I'm a <b> ✨Front End Developer student✨ </b> looking forward to learn progra
 
 
 #
-### S T A T S:
+## S T A T S:
 <div align='center'>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orikiri&theme=blue-green"/>
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=orikiri&theme=blue-green"/>
 </div>  
 
-### S K I L L S: 
+## S K I L L S: 
 <div align='left'>
-  <h2> What I know for the moment: </h2>
+  <h3> What I know for the moment: </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,7 +36,7 @@ I'm a <b> ✨Front End Developer student✨ </b> looking forward to learn progra
   </div>
   
   <div align='right'>
-  <h2> What I want to learn in the future: </h2>
+  <h3> What I want to learn in the future: </h3>
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
