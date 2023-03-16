@@ -2,12 +2,14 @@
 
 
 
-<img width=20% align='right' src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47f1cwdu5mt7vup99elpuxy35j954ex1yvgd5qs9gi&rid=giphy.gif&ct=s"/>
+<img width=25% align='right' src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47f1cwdu5mt7vup99elpuxy35j954ex1yvgd5qs9gi&rid=giphy.gif&ct=s"/>
 
 I'm a <b> ✨Front End Developer student✨ </b> looking forward to learn programming languages.
 
 ### I N F O:
 - :sunflower: I’m currently learning: JavaScript, React.
+- :sunflower: I'm attentive and have a gift to find mistakes quickly, thanks to previous job <3.
+- :sunflower: Quicklearner.
 - :sunflower: Languages: Russian, English.
 - :sunflower: Like play video games and watch anime.
 
