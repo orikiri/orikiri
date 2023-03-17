@@ -7,7 +7,7 @@
 I'm a <b> ✨Full Stack Developer student✨ </b> looking forward to learn programming languages.
 
 ## I N F O:
-- :sunflower: I’m currently learning: JavaScript, React, Back-end.
+- :sunflower: I’m currently learning: JavaScript, React, Back end.
 - :sunflower: I'm attentive and have a gift to find mistakes quickly, thanks to previous job <3.
 - :sunflower: Quicklearner. Usually ·︎ ◡︎ ·︎...
 - :sunflower: Languages: Russian, English.
