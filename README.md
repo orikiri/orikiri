@@ -2,9 +2,11 @@
 
 
 
-<img width=25% align='right' src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47f1cwdu5mt7vup99elpuxy35j954ex1yvgd5qs9gi&rid=giphy.gif&ct=s"/>
-
 I'm a <b> ✨Full Stack Developer student✨ </b> looking forward to learn programming languages.
+
+<div align="right">:books: I finished Full Stack Developer courses and now practicing and improve my knowledge.</div>
+
+<img width=25% align='right' src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47f1cwdu5mt7vup99elpuxy35j954ex1yvgd5qs9gi&rid=giphy.gif&ct=s"/>
 
 ## I N F O:
 - :sunflower: I’m currently learning: JavaScript, React, NodeJS, MySQL.
