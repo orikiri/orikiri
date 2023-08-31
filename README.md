@@ -38,7 +38,6 @@ I'm a <b> ✨Full Stack Developer student✨ </b> looking forward to learn progr
 #
 ## S T A T S:
 <div align='center'>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orikiri&theme=blue-green"/>
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=orikiri&theme=blue-green"/>
 </div>  
 
