@@ -11,7 +11,7 @@ I'm a <b> ✨Full Stack Developer student✨ </b> looking forward to learn progr
 - :sunflower: I'm attentive and have a gift to find mistakes quickly, thanks to previous job <3.
 - :sunflower: Quicklearner. Usually ·︎ ◡︎ ·︎...
 - :sunflower: Languages: Russian, English.
-- :sunflower: Like play video games and watch anime.
+- :sunflower: Like to play video games and watch anime.
 
 
 
