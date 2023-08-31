@@ -1,4 +1,4 @@
-## Hi there, I'm Rita 👋
+## Hello there, I'm Rita 👋
 
 
 
