@@ -14,34 +14,33 @@ I'm a <b> ✨Full Stack Developer student✨ </b> looking forward to learn progr
 - :sunflower: Like play video games and watch anime.
 
 
+
+## S K I L L S: 
+<div align='left'>
+  <h3> What I know for the moment: </h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,js,react,express,nodejs,mysql)](https://skillicons.dev)
+
+  <h5> Instruments </h5>
+
+  [![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
+
+  </div>
+  
+  <div align='right'>
+  <h3> What I want to learn in the future: </h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)
+  
+
+  </div>
+
 #
 ## S T A T S:
 <div align='center'>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orikiri&theme=blue-green"/>
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=orikiri&theme=blue-green"/>
 </div>  
-
-## S K I L L S: 
-<div align='left'>
-  <h3> What I know for the moment: </h3>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  </div>
-  
-  <div align='right'>
-  <h3> What I want to learn in the future: </h3>
-  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-  </div>
 
 #
 :skull_and_crossbones: Fun fact: Favorite anime - One Piece
