@@ -36,12 +36,7 @@ I'm a <b> ✨Full Stack Developer student✨ </b> looking forward to learn progr
   
 
   </div>
-
-#
-## S T A T S:
-<div align='center'>
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=orikiri&theme=blue-green"/>
-</div>  
+  
 
 #
 :skull_and_crossbones: Fun fact: Favorite anime - One Piece
