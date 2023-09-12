@@ -38,8 +38,7 @@ I'm a <b> ✨Full Stack Developer student✨ </b> looking forward to learn progr
   </div>
   
 
-#
-:skull_and_crossbones: Fun fact: Favorite anime - One Piece
+
 
 
 <!--
